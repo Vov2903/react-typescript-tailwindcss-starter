@@ -3,4 +3,3 @@ import useCurrentUrl from "./useCurrentUrl";
 import useToggle from "./useToggle";
 
 export { useWindowSize, useCurrentUrl, useToggle };
-        
